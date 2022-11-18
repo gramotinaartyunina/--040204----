@@ -1,0 +1,12 @@
+body{
+    background-color: azure;
+    color:crimson;
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer {
+text-align: right;
+text-decoration-line: underline;
+background-color: gainsboro;
+}
