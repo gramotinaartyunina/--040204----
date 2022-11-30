@@ -1,0 +1,22 @@
+body{
+    background-color: azure;
+    color:rgb(9, 30, 70);
+    margin: 5px;
+    padding: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header,
+footer {
+text-align: right;
+background-color: gainsboro;
+}
+p{
+    text-align: justify;
+    text-indent: 8ch;
+}
+h2,
+h3,
+h4 {
+    color:rgb(12, 71, 12);
+    text-decoration-line: underline;
+}

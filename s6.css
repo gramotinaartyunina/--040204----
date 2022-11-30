@@ -1,0 +1,27 @@
+body{
+    background-color: azure;
+    color:rgb(9, 30, 70);
+    margin: 5px;
+    padding: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.letter1{
+    color: black;
+    text-decoration-line: underline;
+    font-size: 120%;
+}
+header,
+footer {
+text-align: center;
+background-color: rgba(241, 223, 55);
+}
+p{
+    text-align: justify;
+    text-indent: 8ch;
+}
+h2,
+h3,
+h4 {
+    color:chocolate;
+    text-decoration-line: underline;
+}
