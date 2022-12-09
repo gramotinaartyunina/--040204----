@@ -1,0 +1,51 @@
+body{
+    background-color: azure;
+    color:rgb(9, 30, 70);
+    margin: 5px;
+    padding: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.letter1{
+    color: black;
+    text-decoration-line: underline;
+    font-size: 120%;
+}
+header,
+footer {
+text-align: center;
+background-color: rgba(241, 223, 55);
+}
+p{
+    text-align: justify;
+    text-indent: 8ch;
+}
+p::first-letter {
+    font-size: 120%;
+    color: blue;
+    text-decoration-line: underline;
+}
+section:hover {
+    background-color: antiquewhite;
+}
+h2,
+h3,
+h4 {
+    color:chocolate;
+    text-decoration-line: underline;
+}
+.myimage-div
+{
+    display: none;
+}
+a.myimage-ssilka:hover+div
+{
+    display: block;
+}
+aside{
+    background: rgb(198, 234, 229);
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 18%;
+    height: 1000px;
+}
